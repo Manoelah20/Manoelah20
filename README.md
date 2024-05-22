@@ -5,6 +5,10 @@
 
 ![Manoela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoelah20&show_icons=true&theme=radical)
 
+## Estudante de Tecnologia de Sistemas e apixonada pela tecnologia e inovações.
+
+## Em busca de crescimento profissional
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display:inline-block"><br/>
@@ -14,4 +18,4 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br>
 
-Estudante de tecnologia, apaixonada pela #Tech, aprendendo programação.
+
