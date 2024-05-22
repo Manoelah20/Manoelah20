@@ -5,7 +5,7 @@
 
 ![Manoela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoelah20&show_icons=true&theme=radical)
 
-## Estudante de Tecnologia de Sistemas e apixonada pela tecnologia e inovações.
+## Estudante de Tecnologia de Sistemas e apaixonada pela tecnologia e as inovações.
 
 ## Em busca de crescimento profissional
 
