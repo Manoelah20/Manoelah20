@@ -17,8 +17,8 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/sql.png" alt="sql"/>
+  <img align="center" alt="html5" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img align="center" alt="html5" src="https://img.icons8.com/ultraviolet/40/sql.png" alt="sql"/>
   
 </div><br>
 
