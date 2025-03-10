@@ -7,7 +7,7 @@
 
 ## Estudante de Tecnologia de Sistemas e apaixonada pela tecnologia e as inovações.
 
-## Em busca de crescimento profissional
+##Trabalho como Freelancer - Desenvolvimento web
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -18,6 +18,7 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/node.js-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/sql-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
   
 </div><br>
