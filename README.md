@@ -11,8 +11,6 @@ Trabalho como Freelancer - Desenvolvimento web
 
 ## Tecnologias que eu uso no meu dia a dia
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="left">
