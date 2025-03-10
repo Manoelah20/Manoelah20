@@ -44,13 +44,3 @@ Trabalho como Freelancer - Desenvolvimento web
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Manoelah20/Manoelah20/output/snake.svg" alt="Snake animation" />
-
-###
