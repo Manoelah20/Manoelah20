@@ -7,20 +7,36 @@
 
 ## Estudante de Tecnologia de Sistemas e apaixonada pela tecnologia e as inovações.
 
+<img src="https://raw.githubusercontent.com/Manoelah20/Manoelah20/output/snake.svg" alt="Snake animation" />
+
+###
+
 ##Trabalho como Freelancer - Desenvolvimento web
 
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display:inline-block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/node.js-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/sql-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
-  
-</div><br>
+  <p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+</div>
+###
+<br>
 
 
